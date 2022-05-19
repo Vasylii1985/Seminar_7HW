@@ -16,6 +16,7 @@ for (int i = 0; i < array.GetLength(0); i++)
     }
     Console.WriteLine();
 }
+
 int InputNumber(string number)
 {
     Console.Write($"Введите номер {number}: ");
